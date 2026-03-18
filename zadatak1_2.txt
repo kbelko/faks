@@ -1,0 +1,39 @@
+<student>
+
+	<ime>Mirko</ime>
+	<prezime>Perić</prezime>
+	<jmbg>0246676767</jmbg>
+	<datum>2000-01-16</datum>
+	<godinaStudija>2</godinaStudija>
+	
+	
+	<kontakt>
+		<email>mirkoperic67@gmail.com</email>
+		<telefon>0995504149</telefon>
+	</kontakt>
+	
+	
+	<kolegiji>
+	
+		<kolegij>
+			<naziv>Programiranje 1</naziv>
+            <profesor>Marko Marić</profesor>
+            <ects>6</ects>
+		</kolegij>
+		
+		<kolegij>
+			<naziv>Matematika 1</naziv>
+            <profesor>Pero Perić</profesor>
+            <ects>4</ects>
+		</kolegij>
+		
+		<kolegij>
+			<naziv>Vjerovatnost</naziv>
+            <profesor>Marta Not</profesor>
+            <ects>2</ects>
+		</kolegij>
+	
+	</kolegiji>
+	
+	
+</student>

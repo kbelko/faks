@@ -1,0 +1,16 @@
+<student>
+
+	<ime>Mirko</ime>
+	<prezime>Perić</prezime>
+	<jmbg>0246676767</jmbg>
+	<datum>2000-01-16</datum>
+	<godinaStudija>2</godinaStudija>
+	<studijskiProgram>Informatika</studijskiProgram>
+	
+	<adresa>
+		<ulica>Ilica 131</ulica>
+		<grad>Zagreb</grad>
+		<postanskiBroj>10000</postanskiBroj>
+	</adresa>
+	
+</student>
