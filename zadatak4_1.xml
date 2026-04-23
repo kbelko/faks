@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osoba>
+    <ime>Pero</ime>
+    <cijena>11.99</cijena>
+    <godine>20</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>2006-05-05</datumRodjenja>
+    <vrijemePocetka>10:00:00</vrijemePocetka>
+</Osoba>
