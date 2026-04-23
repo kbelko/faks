@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+
+    <Ime>Pero</Ime>
+    <Prezime>Perić</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ulica Pere 2</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hratska</Drzava>
+    </MjestoStanovanja>
+
+    <Kontakt>
+        <Mobitel>0995504149</Mobitel>
+        <KucniTelefon>0995234561</KucniTelefon>
+        <Email>peroperic@gmail.com</Email>
+    </Kontakt>
+
+</Osoba>

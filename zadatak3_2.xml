@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Pero</Ime>
+    <Prezime>Perić</Prezime>
+
+    <MjestoStanovanja>
+        <Adresa>Ulica Pere 2</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hratska</Drzava>
+    </MjestoStanovanja>
+
+    <NaručeniArtikl>
+        <Naziv>Laptop</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>2000</Cijena>
+    </NaručeniArtikl>
+
+</Narudzba>
