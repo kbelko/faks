@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podaci xmlns:nar="http://primjer.hr/narudzba"
+        xmlns:rac="http://primjer.hr/racun">
+
+    <nar:broj>N-2026-015</nar:broj>
+    <nar:datum>2026-04-06</nar:datum>
+    <nar:iznos>189.99</nar:iznos>
+
+
+    <rac:broj>R-2026-015</rac:broj>
+    <rac:datum>2026-04-06</rac:datum>
+    <rac:iznos>189.99</rac:iznos>
+
+</podaci>
